@@ -1,0 +1,14 @@
+{
+    "update": {
+        "version": "3.0.1",
+        "content": "Scheduler v3.0.1 が利用可能です。アップデートを適用するためにSchedulerを再起動してください。"
+    },
+    "ad": {
+        "display": false,
+        "frequency": 20,
+        "title": "英語発音講座",
+        "content": "経験豊富な講師が皆さんの発音、そしてリスニングの悩みを解決！",
+        "url": "https://sites.google.com/view/yamatoenclub/イベント/英語発音講座",
+        "url_message": "詳しくはこちら"
+    }
+}
